@@ -4,6 +4,7 @@ Doe een Performance audit op een bestaande website uit je eigen omgeving en rapp
 
 De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
 
+De documentatie van deze Performance audit staan in [Wiki](https://github.com/ahlamad/performance-audit/wiki/Performance-audit).
 
 ## Merrachi.com
 
